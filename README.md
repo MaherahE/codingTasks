@@ -2,7 +2,7 @@
 
 ## My Coding Projects
 
-Welcome to my GitHub repository! This collection showcases a variety of coding projects that I've worked on. Each project is designed to demonstrate my skills and interests in data science
+Welcome to my GitHub repository! This collection showcases a variety of coding projects that I've worked on. Each project is designed to demonstrate my skills and interests in data science.
 
 ## Table of Contents
 
