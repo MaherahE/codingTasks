@@ -21,7 +21,7 @@ Here's a list of some of the projects included in this repository:
 
 1. **Project 1: Exploratory Data Analysis on Titanic Dataset**
    - An EDA on the titanic dataset
-   - [Details and code](projects/simple-calculator/README.md)
+   - [Details and code]()
 
 Feel free to explore each project's directory for more details, including setup instructions and source code.
 
